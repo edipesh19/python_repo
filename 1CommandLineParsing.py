@@ -2,10 +2,10 @@
 # Name:        CommandLineParsing.py
 # Purpose:
 #
-# Author:     Dipesh Kumar Dutta 
+# Author:     Dipesh Kumar Dutta
 #
 # Created:     06/05/2014
-# Copyright:   (c) dkdutta 2014
+# Copyright:   (c) Dipesh 2014
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import sys;
