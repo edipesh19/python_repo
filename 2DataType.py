@@ -4,7 +4,7 @@
 #           1. Number [int, long, float, complex]
 #           2. String, 3. List, 4. Tuple, 5. Dictionary
 #
-# Author:      dkdutta
+# Author:     Dipesh Kumar Dutta 
 #
 # Created:     11/05/2014
 # Copyright:   (c) dkdutta 2014
